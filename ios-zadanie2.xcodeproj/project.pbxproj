@@ -18,6 +18,7 @@
 		5424F0BC273B133F00AA2B59 /* ios_zadanie2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5424F0BB273B133F00AA2B59 /* ios_zadanie2Tests.m */; };
 		5424F0C6273B133F00AA2B59 /* ios_zadanie2UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5424F0C5273B133F00AA2B59 /* ios_zadanie2UITests.m */; };
 		5424F0C8273B133F00AA2B59 /* ios_zadanie2UITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5424F0C7273B133F00AA2B59 /* ios_zadanie2UITestsLaunchTests.m */; };
+		5424F0D6273B155800AA2B59 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5424F0D5273B155800AA2B59 /* SecondViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,8 @@
 		5424F0C1273B133F00AA2B59 /* ios-zadanie2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios-zadanie2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5424F0C5273B133F00AA2B59 /* ios_zadanie2UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ios_zadanie2UITests.m; sourceTree = "<group>"; };
 		5424F0C7273B133F00AA2B59 /* ios_zadanie2UITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ios_zadanie2UITestsLaunchTests.m; sourceTree = "<group>"; };
+		5424F0D4273B155800AA2B59 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		5424F0D5273B155800AA2B59 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +116,8 @@
 				5424F0A2273B133B00AA2B59 /* ViewController.h */,
 				5424F0A3273B133B00AA2B59 /* ViewController.m */,
 				5424F0A5273B133B00AA2B59 /* Main.storyboard */,
+				5424F0D5273B155800AA2B59 /* SecondViewController.m */,
+				5424F0D4273B155800AA2B59 /* SecondViewController.h */,
 				5424F0AB273B133F00AA2B59 /* Assets.xcassets */,
 				5424F0AD273B133F00AA2B59 /* LaunchScreen.storyboard */,
 				5424F0B0273B133F00AA2B59 /* Info.plist */,
@@ -269,6 +274,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5424F0D6273B155800AA2B59 /* SecondViewController.m in Sources */,
 				5424F0B2273B133F00AA2B59 /* main.m in Sources */,
 				5424F0A4273B133B00AA2B59 /* ViewController.m in Sources */,
 				5424F0AA273B133B00AA2B59 /* ios_zadanie2.xcdatamodeld in Sources */,
